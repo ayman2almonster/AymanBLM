@@ -8,8 +8,8 @@ body{
 header{
 	background-color: lightpink;
 	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 60px;
+	padding-bottom: 15px;
 }
 
 h1 h2{
@@ -28,9 +28,9 @@ header img{
 }
 
 main{
-	max-height: 800px;
+	max-height: 1280px;
 	margin: 0 auto;
-	padding: 20px;
+	padding: 90px;
 
 
 }
@@ -40,7 +40,9 @@ main img{
 }
 
 h2{
-	font-size: 30px
+	font-size: 40px
+
+
 }
 
 a{
@@ -57,7 +59,7 @@ footer{
 		background-color: indianred;
 	text-align: center;
 	color: white;
-	pading: 50px;
+	pading: 1px;
 }
 
 footer p{
