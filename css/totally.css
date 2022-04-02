@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+	font-family: Helevetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: lightpink;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1 h2{
+	font-family: sans-serif;
+}
+
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+header img{
+	border-radius: 180px;
+    width: 600px;
+    border: 20px solid dodgerblue;
+}
+
+main{
+	max-height: 800px;
+	margin: 0 auto;
+	padding: 20px;
+
+
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px
+}
+
+a{
+	color: #002333;
+
+}
+
+a:hover{
+	color: purple;
+	background-color: white;
+}
+
+footer{
+		background-color: indianred;
+	text-align: center;
+	color: white;
+	pading: 50px;
+}
+
+footer p{
+	margin: 0;
+
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
