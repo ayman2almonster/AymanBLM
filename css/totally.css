@@ -41,6 +41,7 @@ main img{
 
 h2{
 	font-size: 40px
+	font-weight: 60px;
 
 
 }
@@ -74,4 +75,11 @@ footer a{
 footer a:hover{
 	opacity: .5;
 	background-color: transparent;
+}
+
+h2.center{
+	font-size: 50px;
+	text-align: center;
+	padding: 10px;
+	font-weight: 20px;
 }
